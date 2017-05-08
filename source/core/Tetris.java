@@ -69,7 +69,7 @@ public class Tetris extends JFrame implements ActionListener, KeyListener, Runna
 		
 		setSize(400, 530);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);		
-		setTitle("Java Tetris");
+		setTitle("Java Tetris is Best Tetris");
 		setResizable(false);
 		setLocationRelativeTo(null);
 		setLayout(new BorderLayout());
