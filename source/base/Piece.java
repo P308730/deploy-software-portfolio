@@ -3,7 +3,7 @@ package base;
 import java.awt.*;
 
 public class Piece {
-	private final Object DEFAULT_PIECE_VALUE = Color.RED;
+	private final Object DEFAULT_PIECE_VALUE = Color.BLUE;
 	private final Point[] DEFAULT_PIECE_POINTS = {
 			new Point(0, 0), new Point(1, 0), new Point(2, 0), new Point(3, 0)};
 	private Object value;
